@@ -1,0 +1,39 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+*.pyc
+__pycache__/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs and databases
+*.log
+kali_cache.db
+.cache/
+
+# User files
+*.pyc
+.Python
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Project specific
+.history/
+*.bak
